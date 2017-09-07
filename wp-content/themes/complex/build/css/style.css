@@ -204,6 +204,10 @@ body{
 	.contact__content{
 		flex-direction: column;
 	}
+
+	.clientLogo__content-bg{
+		height: 628px;
+	}
 }
 
 @media (max-width: 480px){
